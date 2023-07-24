@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+   .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+   }
+
+   .apesentacao__conteudo{
+        width: auto;
+   }
+
+   .cabecalho{
+        padding: 10% ;
+   }
+
+   .cabecalho__menu{
+        justify-content: center;
+   }
+}
